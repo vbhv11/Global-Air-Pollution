@@ -16,19 +16,20 @@ Breathing air with a high concentration of CO reduces the amount of oxygen that 
 ## Content
 There is one dataset here.
 
-global air pollution dataset.csv
-Country : Name of the country
-City : Name of the city
-AQI Value : Overall AQI value of the city
-AQI Category : Overall AQI category of the city
-CO AQI Value : AQI value of Carbon Monoxide of the city
-CO AQI Category : AQI category of Carbon Monoxide of the city
-Ozone AQI Value : AQI value of Ozone of the city
-Ozone AQI Category : AQI category of Ozone of the city
-NO2 AQI Value : AQI value of Nitrogen Dioxide of the city
-NO2 AQI Category : AQI category of Nitrogen Dioxide of the city
-PM2.5 AQI Value : AQI value of Particulate Matter with a diameter of 2.5 micrometers or less of the city
-PM2.5 AQI Category : AQI category of Particulate Matter with a diameter of 2.5 micrometers or less of the city
+### global air pollution dataset.csv
+
+* Country : Name of the country
+* City : Name of the city
+* AQI Value : Overall AQI value of the city
+* AQI Category : Overall AQI category of the city
+* CO AQI Value : AQI value of Carbon Monoxide of the city
+* CO AQI Category : AQI category of Carbon Monoxide of the city
+* Ozone AQI Value : AQI value of Ozone of the city
+* Ozone AQI Category : AQI category of Ozone of the city
+* NO2 AQI Value : AQI value of Nitrogen Dioxide of the city
+* NO2 AQI Category : AQI category of Nitrogen Dioxide of the city
+* PM2.5 AQI Value : AQI value of Particulate Matter with a diameter of 2.5 micrometers or less of the city
+* PM2.5 AQI Category : AQI category of Particulate Matter with a diameter of 2.5 micrometers or less of the city
 
 ## Acknowledgement
 This dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset)
