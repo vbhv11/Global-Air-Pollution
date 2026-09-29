@@ -31,4 +31,4 @@ PM2.5 AQI Value : AQI value of Particulate Matter with a diameter of 2.5 microme
 PM2.5 AQI Category : AQI category of Particulate Matter with a diameter of 2.5 micrometers or less of the city
 
 ## Acknowledgement
-These datas are collected from elichens.
+This dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset)
